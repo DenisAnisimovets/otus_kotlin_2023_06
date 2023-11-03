@@ -10,3 +10,4 @@ plugins {
 }
 
 rootProject.name = "otus_kotlin_2023_06"
+include("homework01")
